@@ -10,6 +10,7 @@
 	<PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="2.9.8">
 	  <PrivateAssets>all</PrivateAssets>
 	  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  <HintPath>C:\Users\anandsinghdevops\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.8\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll</HintPath>
 	</PackageReference>
   </ItemGroup>
 
