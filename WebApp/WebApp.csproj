@@ -7,11 +7,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" />
-	<PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="2.9.8">
-	  <PrivateAssets>all</PrivateAssets>
-	  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-	  <HintPath>C:\Users\anandsinghdevops\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.8\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll</HintPath>
-	</PackageReference>
   </ItemGroup>
 
   <ItemGroup>
